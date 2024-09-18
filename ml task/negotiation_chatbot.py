@@ -3,7 +3,7 @@ from google.cloud import aiplatform_v1
 
 # Replace with your actual Gemini API key or set it as an environment variable
 # For example: os.environ["GOOGLE_API_KEY"] = "YOUR_GEMINI_API_KEY"
-api_key = "AIzaSyCMzh_HCS9pnJfeQBiDtlqfyvdu27wRXds"
+api_key = "AIzaSyCMzh_HCS9pnJfeQB"
 "
 
 async def chat_with_gemini(prompt):
